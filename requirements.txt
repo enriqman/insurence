@@ -1,0 +1,4 @@
+python==3.7
+catboost==0.26.1
+pycaret==2.3.3
+streamlit

@@ -1,4 +1,0 @@
-catboost==0.26.1
-numpy==1.20
-pycaret
-streamlit
